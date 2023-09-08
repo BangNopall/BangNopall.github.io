@@ -1,25 +1,18 @@
 <!DOCTYPE html>
 <html lang="en">
-
 <head>
-    <!-- sorry if my coding is not neat -->
-    <!-- Web Create By @aathrr._ -->
-    <!-- Follow Me https://www.noxval.site -->
-    <meta name="description"
-        content="Noxval | My portfolio - I'm a Junior Programmer with experience for 1 year. My expertise is to create and website design, UI/UX Design, Network And System Administrator." />
+    <meta name="description" content="Noxval | My portfolio - I'm a Junior Programmer with experience for 1 year. My expertise is to create and website design, UI/UX Design, Network And System Administrator." />
     <link rel="canonical" href="https://www.noxval.site" />
     <meta property="og:site_name" content="Noxval" />
     <meta property="og:type" content="website" />
     <meta property="og:url" content="https://www.noxval.site" />
     <meta property="og:title" content="Noxval | My Portfolio" />
-    <meta property="og:description"
-        content="Noxval | My portfolio - I'm a Junior Programmer with experience for 1 year. My expertise is to create and website design, UI/UX Design, Network And System Administrator." />
+    <meta property="og:description" content="Noxval | My portfolio - I'm a Junior Programmer with experience for 1 year. My expertise is to create and website design, UI/UX Design, Network And System Administrator." />
     <meta property="og:image" content="https://www.noxval.site/img/NoXvaL-logo.png" />
     <meta name="twitter:card" content="summary" />
     <meta name="twitter:site" content="@aathrr._" />
     <meta name="twitter:title" content="Noxval | My Portfolio" />
-    <meta name="twitter:description"
-        content="Noxval | My portfolio - I'm a Junior Programmer with experience for 1 year. My expertise is to create and website design, UI/UX Design, Network And System Administrator." />
+    <meta name="twitter:description" content="Noxval | My portfolio - I'm a Junior Programmer with experience for 1 year. My expertise is to create and website design, UI/UX Design, Network And System Administrator." />
     <meta name="twitter:creator" content="@aathrr._" />
     <meta charset="UTF-8" />
     <meta name="author" content="noxval" />
@@ -143,9 +136,6 @@
                                             </p>
                                         </div>
                                         <div class="info-item padd-15">
-                                            <p>Phone : <span>+62 87794160015</span></p>
-                                        </div>
-                                        <div class="info-item padd-15">
                                             <p>City : <span>Malang</span></p>
                                         </div>
                                         <div class="info-item padd-15">
@@ -223,105 +213,6 @@
                                                         I am a student of Telkom Malang Vocational High
                                                         School who is currently in the second grade
                                                         majoring in computer and network engineering
-                                                    </p>
-                                                </div>
-                                            </div>
-                                        </div>
-                                    </div>
-                                    <h3 class="title mt-cert">Certificate</h3>
-                                    <div class="row">
-                                        <div class="timeline-box padd-15">
-                                            <div class="timeline shadow-dark">
-                                                <div class="timeline-item">
-                                                    <div class="circle-dot"></div>
-                                                    <h4 class="timeline-title">
-                                                        Junior Network Administrator
-                                                    </h4>
-                                                    <p class="timeline-text">
-                                                        Telkom Indonesia – Telkom Digi-Up
-                                                    </p>
-                                                </div>
-                                                <div class="timeline-item">
-                                                    <div class="circle-dot"></div>
-                                                    <h4 class="timeline-title">Command Line Course</h4>
-                                                    <p class="timeline-text">Progate. Inc – Progate</p>
-                                                </div>
-                                                <div class="timeline-item">
-                                                    <div class="circle-dot"></div>
-                                                    <h4 class="timeline-title">
-                                                        Internet Network Simulation (ADVANCED)
-                                                    </h4>
-                                                    <p class="timeline-text">
-                                                        Level Competency Test - Telkom School
-                                                    </p>
-                                                </div>
-                                                <div class="timeline-item">
-                                                    <div class="circle-dot"></div>
-                                                    <h4 class="timeline-title">
-                                                        AWS Academy Cloud Foundation
-                                                    </h4>
-                                                    <p class="timeline-text">
-                                                        Amazon Web Service – AWS Academy
-                                                    </p>
-                                                </div>
-                                                <div class="timeline-item">
-                                                    <div class="circle-dot"></div>
-                                                    <h4 class="timeline-title">
-                                                        Playbox Season 2 Idea Business
-                                                    </h4>
-                                                    <p class="timeline-text">
-                                                        PLAYBOX SEASON 2 – Telkom Institute of Technology
-                                                        Surabaya
-                                                    </p>
-                                                </div>
-                                                <div class="timeline-item">
-                                                    <div class="circle-dot"></div>
-                                                    <h4 class="timeline-title">
-                                                        Asset Fest 2022 Idea Business
-                                                    </h4>
-                                                    <p class="timeline-text">
-                                                        ASSET FEST – University of Education Indonesia
-                                                        Tasikmalaya
-                                                    </p>
-                                                </div>
-                                                <div class="timeline-item">
-                                                    <div class="circle-dot"></div>
-                                                    <h4 class="timeline-title">INTEGER 4</h4>
-                                                    <p class="timeline-text">
-                                                        INTEGER – Ganesha University of Education
-                                                    </p>
-                                                </div>
-                                                <div class="timeline-item">
-                                                    <div class="circle-dot"></div>
-                                                    <h4 class="timeline-title">
-                                                        Atswa Nesa Skill Competition 2022
-                                                    </h4>
-                                                    <p class="timeline-text">
-                                                        Atswa Nesa – ATSWA INDONESIA
-                                                    </p>
-                                                </div>
-                                                <div class="timeline-item">
-                                                    <div class="circle-dot"></div>
-                                                    <h4 class="timeline-title">
-                                                        Ujian Kemahiran Berbahasa Indonesia
-                                                    </h4>
-                                                    <p class="timeline-text">
-                                                        UKBI – Kementerian Pendidikan, Kebudayaan, Riset,
-                                                        dan Teknologi
-                                                    </p>
-                                                </div>
-                                                <div class="timeline-item">
-                                                    <div class="circle-dot"></div>
-                                                    <h4 class="timeline-title">TOEFL TEST</h4>
-                                                    <p class="timeline-text">
-                                                        TOEFL Certificate – EF English
-                                                    </p>
-                                                </div>
-                                                <div class="timeline-item">
-                                                    <div class="circle-dot"></div>
-                                                    <h4 class="timeline-title">TOEIC TEST</h4>
-                                                    <p class="timeline-text">
-                                                        TOEIC Certificate – VIERA
                                                     </p>
                                                 </div>
                                             </div>
@@ -510,8 +401,99 @@
                         <div class="portfolio-item padd-15">
                             <div class="portfolio-item-inner shadow-dark">
                                 <div class="portfolio-img">
-                                    <a href="https://vexentouniverse.com" target="_blank"><img
-                                            src="img/Design Vexento Universe.png" alt="" /></a>
+                                    <a href="https://github.com/BangNopall/antareja" target="_blank">
+                                        <img src="/img/project/antareja.jpg" alt="antareja" />
+                                    </a>
+                                </div>
+                            </div>
+                        </div>
+                        <div class="portfolio-item padd-15">
+                            <div class="portfolio-item-inner shadow-dark">
+                                <div class="portfolio-img">
+                                    <a href="https://drive.google.com/drive/folders/1RiMP56TKhDgkKR6IcDaLhiOnJTUHMxSY?usp=sharing" target="_blank">
+                                        <img src="/img/project/ayomasak.jpg" alt="ayomasak" />
+                                    </a>
+                                </div>
+                            </div>
+                        </div>
+                        <div class="portfolio-item padd-15">
+                            <div class="portfolio-item-inner shadow-dark">
+                                <div class="portfolio-img">
+                                    <a href="https://globy.id" target="_blank">
+                                        <img src="/img/project/globy.jpg" alt="globy" />
+                                    </a>
+                                </div>
+                            </div>
+                        </div>
+                        <div class="portfolio-item padd-15">
+                            <div class="portfolio-item-inner shadow-dark">
+                                <div class="portfolio-img">
+                                    <a href="https://github.com/BangNopall/coba-laravel" target="_blank">
+                                        <img src="/img/project/laravelsidigs.jpg" alt="laravelsidigs" />
+                                    </a>
+                                </div>
+                            </div>
+                        </div>
+                        <div class="portfolio-item padd-15">
+                            <div class="portfolio-item-inner shadow-dark">
+                                <div class="portfolio-img">
+                                    <a href="https://github.com/BangNopall/motentsix" target="_blank">
+                                        <img src="/img/project/motentsix.jpg" alt="motentsix" />
+                                    </a>
+                                </div>
+                            </div>
+                        </div>
+                        <div class="portfolio-item padd-15">
+                            <div class="portfolio-item-inner shadow-dark">
+                                <div class="portfolio-img">
+                                    <a href="https://drive.google.com/drive/folders/1k9ifhK9fbq6E4zOkrG2ivxedjIHHN4rw?usp=sharing" target="_blank">
+                                        <img src="/img/project/pesanmakan.jpg" alt="pesanmakan" />
+                                    </a>
+                                </div>
+                            </div>
+                        </div>
+                        <div class="portfolio-item padd-15">
+                            <div class="portfolio-item-inner shadow-dark">
+                                <div class="portfolio-img">
+                                    <a href="https://drive.google.com/drive/folders/1Lvvr5A4RsW16kAZ8ZkNmLFOgHw4U0f8o?usp=sharing" target="_blank">
+                                        <img src="/img/project/spotifyremake.jpg" alt="spotifyremake" />
+                                    </a>
+                                </div>
+                            </div>
+                        </div>
+                        <div class="portfolio-item padd-15">
+                            <div class="portfolio-item-inner shadow-dark">
+                                <div class="portfolio-img">
+                                    <a href="https://github.com/BangNopall/stekwa" target="_blank">
+                                        <img src="/img/project/stekwa.jpg" alt="stekwa" />
+                                    </a>
+                                </div>
+                            </div>
+                        </div>
+                        <div class="portfolio-item padd-15">
+                            <div class="portfolio-item-inner shadow-dark">
+                                <div class="portfolio-img">
+                                    <a href="https://drive.google.com/drive/folders/1hO5efRbXnUwV1muRKlsL56nVwbrA3e9C?usp=sharing" target="_blank">
+                                        <img src="/img/project/uiuxkemerdekaan-1.jpg" alt="uiuxkemerdekaan-1" />
+                                    </a>
+                                </div>
+                            </div>
+                        </div>
+                        <div class="portfolio-item padd-15">
+                            <div class="portfolio-item-inner shadow-dark">
+                                <div class="portfolio-img">
+                                    <a href="https://drive.google.com/drive/folders/1WMDK3vijx3vN5PbZ3dKJPk1UWUTsE175?usp=sharing" target="_blank">
+                                        <img src="/img/project/uiuxkemerdekaan.jpg" alt="uiuxkemerdekaan" />
+                                    </a>
+                                </div>
+                            </div>
+                        </div>
+                        <div class="portfolio-item padd-15">
+                            <div class="portfolio-item-inner shadow-dark">
+                                <div class="portfolio-img">
+                                    <a href="https://github.com/BangNopall/vexento-nft" target="_blank">
+                                        <img src="/img/project/vexentonft.jpg" alt="vexentonft" />
+                                    </a>
                                 </div>
                             </div>
                         </div>
@@ -535,10 +517,99 @@
                         <div class="portfolio-item padd-15">
                             <div class="portfolio-item-inner shadow-dark">
                                 <div class="portfolio-img">
-                                    <a href="img/cert/Cert Progate Study Fundamental CLI_page-0001.jpg"
-                                        target="_blank"><img
-                                            src="img/cert/Cert Progate Study Fundamental CLI_page-0001.jpg"
-                                            alt="" /></a>
+                                    <a href="https://drive.google.com/file/d/1YncF_zktbJ8DDOI2nVWTaMKlUWQo9n2D/view"
+                                    target="_blank"><img
+                                    src="/img/cert/assetfest.jpg"
+                                    alt="assetfest cert" />
+                                    </a>        
+                                </div>
+                            </div>
+                        </div>
+                        <div class="portfolio-item padd-15">
+                            <div class="portfolio-item-inner shadow-dark">
+                                <div class="portfolio-img">
+                                    <a href="https://drive.google.com/file/d/14QF524dKKCkyX0GvYmenY3rWjzGHhZnd/view"
+                                    target="_blank"><img
+                                    src="img/cert/atswa.jpg"
+                                    alt="atswa cert" />
+                                    </a>        
+                                </div>
+                            </div>
+                        </div>
+                        <div class="portfolio-item padd-15">
+                            <div class="portfolio-item-inner shadow-dark">
+                                <div class="portfolio-img">
+                                    <a href="https://drive.google.com/file/d/17zpcWWdaykuYkaCkgNr-VEPMWPIUK_dq/view"
+                                    target="_blank"><img
+                                    src="img/cert/awsacademy.jpg"
+                                    alt="awsacademy cert" />
+                                    </a>        
+                                </div>
+                            </div>
+                        </div>
+                        <div class="portfolio-item padd-15">
+                            <div class="portfolio-item-inner shadow-dark">
+                                <div class="portfolio-img">
+                                    <a href="https://drive.google.com/file/d/1w36lsp3yQyzzF7jhbnz7Q_1tg3AX7yo_/view"
+                                    target="_blank"><img
+                                    src="img/cert/inotek.jpg"
+                                    alt="inotek cert" />
+                                    </a>        
+                                </div>
+                            </div>
+                        </div>
+                        <div class="portfolio-item padd-15">
+                            <div class="portfolio-item-inner shadow-dark">
+                                <div class="portfolio-img">
+                                    <a href="https://drive.google.com/file/d/1H-Z7aduZ_GqKJNobFcU9NYcKycHmojHK/view"
+                                    target="_blank"><img
+                                    src="img/cert/integer.jpg"
+                                    alt="integer cert" />
+                                    </a>        
+                                </div>
+                            </div>
+                        </div>
+                        <div class="portfolio-item padd-15">
+                            <div class="portfolio-item-inner shadow-dark">
+                                <div class="portfolio-img">
+                                    <a href="https://drive.google.com/file/d/1ObP94IDILtk31cPJOHYtFz2Dx7kJcCTM/view"
+                                    target="_blank"><img
+                                    src="img/cert/playbox.jpg"
+                                    alt="" />
+                                    </a>        
+                                </div>
+                            </div>
+                        </div>
+                        <div class="portfolio-item padd-15">
+                            <div class="portfolio-item-inner shadow-dark">
+                                <div class="portfolio-img">
+                                    <a href="https://drive.google.com/file/d/1lCCJ4EHD7qOHolFaF8h4oaxtH95hOnIf/view"
+                                    target="_blank"><img
+                                    src="img/cert/progate.jpg"
+                                    alt="" />
+                                    </a>        
+                                </div>
+                            </div>
+                        </div>
+                        <div class="portfolio-item padd-15">
+                            <div class="portfolio-item-inner shadow-dark">
+                                <div class="portfolio-img">
+                                    <a href="https://drive.google.com/file/d/1u1r-QwldDjmRbcTHBiScjhPHuRVgjTtj/view"
+                                    target="_blank"><img
+                                    src="img/cert/telkomdigiup.jpg"
+                                    alt="" />
+                                    </a>        
+                                </div>
+                            </div>
+                        </div>
+                        <div class="portfolio-item padd-15">
+                            <div class="portfolio-item-inner shadow-dark">
+                                <div class="portfolio-img">
+                                    <a href="https://drive.google.com/file/d/1PD-IJiPlBt970qqsoSoU62YsBfeBDnvF/view"
+                                    target="_blank"><img
+                                    src="img/cert/ukl.jpg"
+                                    alt="" />
+                                    </a>        
                                 </div>
                             </div>
                         </div>
@@ -555,12 +626,7 @@
                     </div>
                     <h3 class="contact-title padd-15">Have You Any Questions?</h3>
                     <h4 class="contact-sub-title padd-15">I'M AT YOUR SERVICES</h4>
-                    <div class="row">
-                        <div class="contact-info-item padd-15">
-                            <div class="icon"><i class="fa fa-phone"></i></div>
-                            <h4>Call Us On</h4>
-                            <p>+62 87794160015</p>
-                        </div>
+                    <div class="row contanct-center">
                         <div class="contact-info-item padd-15">
                             <div class="icon"><i class="fa fa-map-marker-alt"></i></div>
                             <h4>Location</h4>
@@ -639,9 +705,6 @@
     </div>
     <script src="js/script.js"></script>
     <script src="js/style-switcher.js"></script>
-    <script src="https://cdnjs.cloudflare.com/ajax/libs/prop-types/15.8.1/prop-types.min.js"
-        integrity="sha512-M1OTu9xD1JPdXo2cOeJI+Z/f8P6E/pqK9ug3G8PRNLw1caUePewEmpFYKSYh4LEz483qnyB/UTlgX1Q4VCEsKg=="
-        crossorigin="anonymous" referrerpolicy="no-referrer"></script>
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/prop-types/15.8.1/prop-types.min.js" integrity="sha512-M1OTu9xD1JPdXo2cOeJI+Z/f8P6E/pqK9ug3G8PRNLw1caUePewEmpFYKSYh4LEz483qnyB/UTlgX1Q4VCEsKg==" crossorigin="anonymous" referrerpolicy="no-referrer"></script>
 </body>
-
 </html>
