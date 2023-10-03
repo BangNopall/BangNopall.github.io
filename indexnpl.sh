@@ -30,13 +30,6 @@ npm install -g nodemon
 npm install -g cors
 npm install -g body-parser
 
-#Config PM2 APP
-cd /home/ubuntu/ukk/src/
-npm install pm2 -g
-pm2 start index.js
-pm2 startup
-pm2 save
-
 #Config Connection RDS
 cd /home/ubuntu/ukk/src/model/
 sudo cat <<EOF >dbConnection.js
@@ -90,6 +83,3 @@ rsync -avz -e /home/ubuntu/ukk/ ubuntu@$IpbackupServer:/home/ubuntu/app-log
 rsync -avz -e /var/log/ $EFSmountpoint
 
 crontab -e
-
-#Config Monitor PM2
-pm2 monitor
