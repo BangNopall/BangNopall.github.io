@@ -5,10 +5,10 @@
 
 
 #   VARIABLE YANG DIGUNAKAN WAJIB DIGANTI
-RDSmountpoint="database-1.cz0n6hr9s1r8.us-east-1.rds.amazonaws.com"
+RDSmountpoint=""
 UsernameRDS="admin"
 passwordRDS="12345678"
-IpbackupServer="192.168.0.133"
+IpbackupServer="192.168.0.0"
 pathSSH="/home/ubuntu"
 fileNameSSH="lab.pem"
 EFSmountpoint="/home/ubuntu/efs"
@@ -56,7 +56,7 @@ sekolah_guru varchar(255)
 );
 
 INSERT INTO guru (nama_guru, mapel_guru, sekolah_guru) VALUES ('Adi','cloud','SMK Telkom Malang');
-INSERT INTO guru (nama_guru, mapel_guru, sekolah_guru) VALUES ('MasNopal','SiPalingTekaje','SMK Telkom Nie Boss');
+INSERT INTO guru (nama_guru, mapel_guru, sekolah_guru) VALUES ('OmTegar','Kuli Jawa','STM Kuli Telkom');
 show tables;
 SELECT * FROM guru;
 EOF
@@ -67,7 +67,7 @@ cat <<EOF > /tmp/cronjob
 # (/tmp/cronjob installed on Mon Oct  2 04:22:08 2023)
 # (Cron version -- $Id: crontab.c,v 2.13 1994/01/17 03:20:37 vixie Exp $)
 #Rsync Backup Server
-*/1 * * * * rsync -avz -e /home/ubuntu/ukk/ ubuntu@$IpbackupServer:/home/ubuntu/app-log
+*/1 * * * * rsync -avz -e "ssh -i $pathSSH/$fileNameSSH" /home/ubuntu/ukk/ ubuntu@$IpbackupServer:/home/ubuntu/app-log
 
 #Rsync EFS
 */1 * * * * rsync -avz -e /var/log/ $EFSmountpoint
@@ -79,7 +79,7 @@ chmod 0600 /tmp/cronjob
 sudo crontab /tmp/cronjob -u root
 
 #First run Cronjob
-rsync -avz -e /home/ubuntu/ukk/ ubuntu@$IpbackupServer:/home/ubuntu/app-log
+rsync -avz -e "ssh -i $pathSSH/$fileNameSSH" /home/ubuntu/ukk/ ubuntu@$IpbackupServer:/home/ubuntu/app-log
 rsync -avz -e /var/log/ $EFSmountpoint
 
 crontab -e
