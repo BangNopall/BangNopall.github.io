@@ -80,6 +80,6 @@ sudo crontab /tmp/cronjob -u root
 
 #First run Cronjob
 rsync -avz -e "ssh -i $pathSSH/$fileNameSSH" /home/ubuntu/ukk/ ubuntu@$IpbackupServer:/home/ubuntu/app-log
-rsync -avz -e /var/log/ $EFSmountpoint
+rsync -avz /var/log/ $EFSmountpoint
 
 crontab -e
